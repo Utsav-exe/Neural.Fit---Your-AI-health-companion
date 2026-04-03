@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Decoupled_Full_Stack-lightgrey)
 
-**Live Demo:** [app.neural.fit](https://app.neural.fit)
+**Live Demo:** [app.neural.fit]([https://app.neural.fit](https://neural-fit-your-ai-health-companion.vercel.app/))
 
 The legacy fitness paradigm is broken. Generic PDF templates and flat caloric targets ignore individual morphology and daily kinetic fluctuations. **Neural.FIT** upgrades static tracking to living protocols, treating the human body as a machine requiring precise input, output, and optimization.
 
